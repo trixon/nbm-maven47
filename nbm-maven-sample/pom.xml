@@ -37,6 +37,59 @@
             <artifactId>tilesfx</artifactId>
             <version>17.1.3</version>
         </dependency>
+
+        <!--x-->
+        <dependency>
+            <groupId>eu.hansolo</groupId>
+            <artifactId>toolbox</artifactId>
+            <version>17.0.12</version>
+        </dependency>
+        <dependency>
+            <groupId>eu.hansolo</groupId>
+            <artifactId>toolboxfx</artifactId>
+            <version>17.0.22</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-base</artifactId>
+            <version>17.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-graphics</artifactId>
+            <version>17.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>17.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-swing</artifactId>
+            <version>17.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-web</artifactId>
+            <version>17.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-media</artifactId>
+            <version>17.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>eu.hansolo.fx</groupId>
+            <artifactId>heatmap</artifactId>
+            <version>17.0.3</version>
+        </dependency>
+        <dependency>
+            <groupId>eu.hansolo.fx</groupId>
+            <artifactId>countries</artifactId>
+            <version>17.0.16</version>
+        </dependency>
+        <!--x-->
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
